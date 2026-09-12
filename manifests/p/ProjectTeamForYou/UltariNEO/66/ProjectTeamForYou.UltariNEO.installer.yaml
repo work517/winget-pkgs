@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
 
 PackageIdentifier: ProjectTeamForYou.UltariNEO
-PackageVersion: "62"
+PackageVersion: "66"
 MinimumOSVersion: 10.0.0.0
 InstallerType: nullsoft
 Scope: user
@@ -16,7 +16,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://dl.ultarineo.com/UltariNEO-setup-build62.exe
-  InstallerSha256: 3A1A99228833594197FC23566251F58F310CA5DA3EC3582C79094939D85F784C
+  InstallerUrl: https://dl.ultarineo.com/UltariNEO-setup-build66.exe
+  InstallerSha256: 916A25C7E86E4533E0D9CE6E1C371423BD70F59C47F7FF733C62FBB750EC4230
 ManifestType: installer
 ManifestVersion: 1.6.0

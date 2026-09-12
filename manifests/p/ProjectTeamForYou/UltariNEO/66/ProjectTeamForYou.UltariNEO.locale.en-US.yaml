@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.6.0.schema.json
 
 PackageIdentifier: ProjectTeamForYou.UltariNEO
-PackageVersion: "62"
+PackageVersion: "66"
 PackageLocale: en-US
 Publisher: ProjectTeamForYou
 PublisherUrl: https://ultarineo.com
